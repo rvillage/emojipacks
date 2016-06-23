@@ -1,0 +1,4 @@
+# License
+
+[SUSHIYUKI(寿司ゆき)](http://awayuki.net/sushiyuki/)
+Copyright (c) [awayuki](https://github.com/awayuki). (CC BY-NC-ND 4.0)
